@@ -15,10 +15,15 @@ Given n string of rackets, determine whether each sequence of brackets is balanc
 EXAMPLE:
 
 Input:
+
 2
+
 [ ( { } ) ]
+
 { ( ] }
 
 Output:
+
 YES
+
 NO
