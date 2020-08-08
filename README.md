@@ -18,6 +18,7 @@ Input:
 2
 [ ( { } ) ]
 { ( ] }
+
 Output:
 YES
 NO
